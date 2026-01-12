@@ -24,6 +24,8 @@ A real-time location sharing application that lets users share their live positi
 
 **Tech:** React, TypeScript, Vite, Tailwind CSS, Mapbox GL JS, Node.js, Express, Socket.io
 
+---
+
 ### 🌐 WorldPulse — Global News & Crisis Monitoring
 A web application that monitors global events, crises, disasters, and conflicts on an interactive 3D globe by aggregating authoritative datasets and live news sources, enabling real-time exploration by location, type, and severity.
 
