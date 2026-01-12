@@ -19,6 +19,11 @@ More details about me:
 
 ## 🔖 Pinned Repositories
 
+### 📍 LocShare — Privacy-First Real-Time Location Sharing
+A real-time location sharing application that lets users share their live position with others using a simple passkey or a QR/room link, without requiring accounts or storing history. LocShare features instant WebSocket-powered updates, interactive maps, distance tracking, live address display for connected members and the ability to navigate to connected users using Google Maps, Apple Maps or Waze.
+
+**Tech:** React, TypeScript, Vite, Tailwind CSS, Mapbox GL JS, Node.js, Express, Socket.io
+
 ### 🌐 WorldPulse — Global News & Crisis Monitoring
 A web application that monitors global events, crises, disasters, and conflicts on an interactive 3D globe by aggregating authoritative datasets and live news sources, enabling real-time exploration by location, type, and severity.
 
