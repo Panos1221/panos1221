@@ -40,12 +40,6 @@ An open-source incident management platform for public safety agencies, enabling
 
 ---
 
-### 🚒 Hellenic Fire Service — Live Incidents Map
-A real-time mapping application visualizing active fire incidents and 112 emergency warnings across Greece using official data sources and live alert feeds.
-
-**Tech:** C#, ASP.NET Core, SignalR, JavaScript, Leaflet, GeoJSON, Raspberry Pi (self-hosted)
-
----
 
 ## 🛠 Skills & Technologies
 
